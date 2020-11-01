@@ -1,11 +1,18 @@
 #include <iostream>
-#include "utils.h"
+#include <windows.h>
+
+#include "Client.h"
+#include "Process.h"
+
 
 int main(void) {
-	launch_powershell();
+	
 }
 
+void change_stds() {
+
+}
 
 void launch_powershell() {
-	std::cout << "Hello, World\n";
+	system("Powershell.exe");
 }
