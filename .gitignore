@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/TcpReverseShell/Debug
+/TcpReverseShell/TcpReverseShell/Debug
+/TcpReverseShell/.vs/TcpReverseShell/v16
